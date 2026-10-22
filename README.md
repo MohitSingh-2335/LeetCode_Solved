@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
