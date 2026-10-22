@@ -80,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
