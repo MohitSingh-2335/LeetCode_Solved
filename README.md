@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1929-concatenation-of-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/2169-count-operations-to-obtain-zero) |
 ## Enumeration
 |  |
