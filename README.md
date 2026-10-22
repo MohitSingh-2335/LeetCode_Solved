@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0643-maximum-average-subarray-i) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0424-longest-repeating-character-replacement) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -104,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
@@ -256,4 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
