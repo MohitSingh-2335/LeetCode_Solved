@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0392-is-subsequence) |
 ## Greedy
