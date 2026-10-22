@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
