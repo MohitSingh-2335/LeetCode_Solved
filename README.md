@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
