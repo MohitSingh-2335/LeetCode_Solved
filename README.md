@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0068-text-justification) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0242-valid-anagram) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0076-minimum-window-substring) |
