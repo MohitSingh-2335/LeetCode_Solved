@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0643-maximum-average-subarray-i) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1929-concatenation-of-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
 |  |
