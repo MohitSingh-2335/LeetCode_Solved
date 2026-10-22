@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
+| [2169-count-operations-to-obtain-zero](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/2169-count-operations-to-obtain-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0068-text-justification) |
+| [2169-count-operations-to-obtain-zero](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
