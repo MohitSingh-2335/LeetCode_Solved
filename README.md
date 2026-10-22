@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/2169-count-operations-to-obtain-zero) |
 ## Two Pointers
@@ -159,4 +161,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0068-text-justification) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/2169-count-operations-to-obtain-zero) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
