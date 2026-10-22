@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0643-maximum-average-subarray-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
