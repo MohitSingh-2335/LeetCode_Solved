@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0189-rotate-array) |
@@ -21,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
