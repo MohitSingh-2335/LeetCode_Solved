@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0014-longest-common-prefix) |
