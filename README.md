@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0380-insert-delete-getrandom-o1) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/2169-count-operations-to-obtain-zero) |
 ## Two Pointers
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0258-add-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/2169-count-operations-to-obtain-zero) |
 ## Enumeration
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
