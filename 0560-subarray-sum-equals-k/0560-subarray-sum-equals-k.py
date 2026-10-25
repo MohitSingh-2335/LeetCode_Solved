@@ -5,7 +5,6 @@ class Solution:
         sum_ele = 0
         for ele in nums:
             sum_ele += ele
-            if prefix_dic.get(sum_ele - k, 0):
-                output += prefix_dic.get(sum_ele - k, 0)
+            output += prefix_dic.get(sum_ele - k, 0)
             prefix_dic[sum_ele] = prefix_dic.get(sum_ele, 0) + 1 
         return output
