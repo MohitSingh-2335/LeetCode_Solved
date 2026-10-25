@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0136-single-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0205-isomorphic-strings) |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/1757-recyclable-and-low-fat-products) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
