@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0204-count-primes) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0326-power-of-three) |
 ## Linked List
