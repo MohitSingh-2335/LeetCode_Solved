@@ -248,11 +248,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
