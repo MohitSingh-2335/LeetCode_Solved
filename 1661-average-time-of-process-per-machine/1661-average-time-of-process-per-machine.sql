@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select state1.machine_id, round(avg(abs(state1.timestamp - state2.timestamp)), 3) processing_time from Activity state1 join Activity state2 on state1.machine_id = state2.machine_id and state1.process_id = state2.process_id where state1.activity_type != state2.activity_type group by machine_id;
