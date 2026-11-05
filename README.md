@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0049-group-anagrams) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0078-subsets) |
 ## Bucket Sort
 |  |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0036-valid-sudoku) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MohitSingh-2335/LeetCode_Solved/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
